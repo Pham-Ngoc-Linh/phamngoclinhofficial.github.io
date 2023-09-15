@@ -1,1 +1,1 @@
-alert('Hi Javascript!')
+alert("xin chao")
